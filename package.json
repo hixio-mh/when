@@ -61,7 +61,7 @@
     "rest": "1.1.x",
     "sauce-connect-launcher": "~0.4",
     "uglify-js": "~2",
-    "wd": "~0.2"
+    "wd": "~1.0.0"
   },
   "main": "when.js",
   "ender": {
