@@ -47,7 +47,7 @@
   ],
   "devDependencies": {
     "benchmark": "~1",
-    "browserify": "~2",
+    "browserify": "~9.0.0",
     "buster": "~0.7",
     "exorcist": "~0.4",
     "glob": "^7.1.1",
@@ -60,7 +60,7 @@
     "promises-aplus-tests": "~2",
     "rest": "1.1.x",
     "sauce-connect-launcher": "~0.4",
-    "uglify-js": "~2",
+    "uglify-js": "~3.14.3",
     "wd": "~0.2"
   },
   "main": "when.js",
