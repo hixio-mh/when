@@ -47,9 +47,9 @@
   ],
   "devDependencies": {
     "benchmark": "~1",
-    "browserify": "~2",
+    "browserify": "~5.0.0",
     "buster": "~0.7",
-    "exorcist": "~0.4",
+    "exorcist": "~2.0.0",
     "glob": "^7.1.1",
     "jshint": "~2",
     "json5": "~0.2",
